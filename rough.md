@@ -14,7 +14,7 @@
 |  |  --------> Group(g)
 |  ------------> User (u)
 ---------------> Spcial bits (suid, sgid, sticky)
-```'
+```
 
 
 ```bash
